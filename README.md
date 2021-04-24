@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Boobathy14
+- 👋 Hi, I’m Boobathy
 - 👀 I’m interested in data science,Machine Learning,Deeplearning felid
 - 🌱 I’m currently learning B.Tech Information Technology
 - 📫 How to reach me boobathya1412@gmail.com
